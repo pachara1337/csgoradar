@@ -1,5 +1,5 @@
 # csgoradar
-simple csgo 2D radar written on C#
+simple csgo 2D radar written on C# pasted from Lufzys
 
 
 
